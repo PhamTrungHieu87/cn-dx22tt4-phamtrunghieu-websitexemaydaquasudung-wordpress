@@ -27,3 +27,7 @@
 
 # Cài đặt themes (astra)
 # Chỉnh sửa giao diện và thêm dữ liệu
+# Thiết kế giao diện trang chủ
+# Thiết kế giao diện giới thiệu
+# thiết kế giao diện liên hệ
+# Thêm sản phẩm tại trang sản phẩm, thông tin sản phẩm
